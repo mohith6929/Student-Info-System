@@ -1,0 +1,10 @@
+rohith chowdary 31 9.500000 1 2 3 4 5
+mohith chowdary 49 9.600000 6 7 8 9 10
+rithvik borugadda 32 9.100000 1 2 3 4 5 
+navadeep perumala 33 9.200000 21 22 23 24 25 
+bobby chowdary 45 9.900000 7 8 9 4 5 
+satwik chowdary 46 9.900000 1 2 3 4 5 
+sai charan 17 9.200000 31 32 33 34 35 
+manoj kumar 50 9.400000 21 22 23 24 25 
+rohith kumar 51 9.800000 1 2 3 4 5 
+mohana muralidhar 30 9.600000 6 7 8 9 10 
