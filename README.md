@@ -30,4 +30,5 @@ Update a student:-
 This is actually a very useful operation which enables user to edit the details of existing student without removing the student and adding him again.
 
 All the student detail are stored andupdated in abc.txt file.
+Both the temporary files(temp.txt, temp2.txt) which are used for update and deleting student details will be created by their own while running the code.
 # Student-Info-System
