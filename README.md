@@ -7,23 +7,23 @@ ENTERING STUDENT DETAILS-
 In this function the user will enter the details of students as follows:
 First name
 Last name
-Roll no
+Roll no (only numbers)
 CGPA
-Course ids
+Course ids (5 numbers)
 
-Search student details by roll number:-
-As the user entered the details of all students  ,to search for a particular student by knowing his roll number the user have to input the roll number to get complete details of the particular student .If with the entered roll number  there is no student enrolled then the message “student not found” will be displayed.
+SEARCH STUDENT DETAILS BY ROLL NUMBER:-
+As the user entered the details of all students, to search for a particular student by knowing his roll number the user have to input the roll number to get complete details of the particular student .If with the entered roll number  there is no student enrolled then the message “student not found” will be displayed.
 
-Search student details by first name:-
+SEARCH STUDENT DETAILS BY FIRST NAME:-
 User can search for a student using his first name. Just by entering the first name of the student details of all students with the given first name will be displayed. Incase entered first name didn’t match with any student then message “student not found “ will be displayed.
 
-Search by course ID:-
+SEARCH STUDENT DETAILS BY COURSE ID:-
 We can also get the details of all the students who are under a particular course. By this we can get the details of students with same course.
 
-Details of all the students:-
+DETAILS OF ALL THE STUDENTS:-
 Using this option one can get the details of all the students added till date.
 
-Delete a student:-
+DELETE A STUDENT:-
 User can also remove a particular student by knowing his roll number.
 
 Update a student:-
