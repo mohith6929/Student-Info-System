@@ -26,7 +26,7 @@ Using this option one can get the details of all the students added till date.
 DELETE A STUDENT:-
 User can also remove a particular student by knowing his roll number.
 
-Update a student:-
+UPDATE A STUDENT:-
 This is actually a very useful operation which enables user to edit the details of existing student without removing the student and adding him again.
 
 All the student detail are stored andupdated in abc.txt file.
